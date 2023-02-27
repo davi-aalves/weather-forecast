@@ -3,7 +3,7 @@
 ## :memo: Descrição
 Esse projeto foi criado durante o evento "Missão: Você Programador do Zero" ofertado pelo Rodolfo Mori, idealizador do DevClub, onde ele ensinou pessoas com 0 noção de programação a utilizar HTML, CSS e JavaScript + API's
 
-*Segue link da aplicação: https://davi-aalves.github.io/weather-forecast/
+* Segue link da aplicação: https://davi-aalves.github.io/weather-forecast/
 
 ## :wrench: Tecnologias utilizadas
 * HTML;
