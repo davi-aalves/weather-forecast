@@ -1,5 +1,3 @@
-// VÁRIAVEIS => Um espaço da memória do computador que guardamos algo (um número, uma letra, um texto, uma imagem)
-// FUNÇÃO => Um trecho de código que só é executado quando chamado.
 
 let chave = "5e682c768bc216a231f583ef6608119d"
 
