@@ -1,5 +1,6 @@
 <h1 align="center">:file_cabinet: Weather Forecast <h1>
 
+![img da aplicação](./assets/img/weather-forecast.png)
 ## :memo: Descrição
 Esse projeto foi criado durante o evento "Missão: Você Programador do Zero" ofertado pelo Rodolfo Mori, idealizador do DevClub, onde ele ensinou pessoas com 0 noção de programação a utilizar HTML, CSS e JavaScript + API's
 
